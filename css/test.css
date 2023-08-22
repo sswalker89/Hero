@@ -1,0 +1,27 @@
+body{
+	background-color: lightgray;
+}
+h1{
+font-size: 30px;
+color: darksalmon;
+}
+</style>
+<style type="text/css">
+h2{
+font-size: 25px;
+color: blueviolet;
+}
+</style>
+<style type="text/css">
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: skyblue;
+}
+h1 span{
+color: violet;
+}
